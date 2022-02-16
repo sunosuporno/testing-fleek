@@ -11,8 +11,8 @@ module.exports = {
   },
   images: {
     domains: ['lh3.googleusercontent.com'],
-    loader: "imgix",
-    path: ""
+    loader: 'cloudinary',
+    path: '/'
 
   },
   eslint: {
